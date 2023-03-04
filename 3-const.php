@@ -21,5 +21,3 @@ print($ddf::myName);
 
 </body>
 </html>
-
-
